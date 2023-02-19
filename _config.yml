@@ -51,15 +51,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-email: "yug032@ucsd.edu"
+ email: "yug032@ucsd.edu"
 #facebook: deanattali
-github: yugaophd
+ github: yugaophd
 #twitter: daattali
 #patreon: DeanAttali
 #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-linkedin: yugaorsmas
+ linkedin: yugaorsmas
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,8 +72,8 @@ linkedin: yugaorsmas
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: https://orcid.org/0000-0002-5123-2704
-google-scholar: https://scholar.google.com/citations?user=-NVkrGYAAAAJ&hl=en&authuser=1
+ ORCID: https://orcid.org/0000-0002-5123-2704
+ google-scholar: https://scholar.google.com/citations?user=-NVkrGYAAAAJ&hl=en&authuser=1
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
