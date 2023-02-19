@@ -22,7 +22,7 @@ author: Yu Gao
 navbar-links:
 About Me: "aboutme"
 Research: "yugaophd.github.io"
-CV:"/assets/Academic_CV_YuGao_2022"
+CV: "/assets/Academic_CV_YuGao_2022"
     #- Beautiful Jekyll: "yugaophd.github.io"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
