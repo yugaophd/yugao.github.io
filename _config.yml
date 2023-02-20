@@ -53,13 +53,13 @@ round-avatar: true
 social-network-links:
  email: "yug032@ucsd.edu"
 #facebook: deanattali
- github: yugaophd
+ github: "yugaophd"
 #twitter: daattali
 #patreon: DeanAttali
 #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: yugaorsmas
+ linkedin: "yugaorsmas"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,9 +72,9 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
- ORCID: https://orcid.org/0000-0002-5123-2704
- google-scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=-NVkrGYAAAAJ
- researchgate: https://www.researchgate.net/profile/Yu_Gao109?ev=hdr_xprf
+ ORCID: "0000-0002-5123-2704"
+ google-scholar: "https://scholar.google.com/citations?hl=en&authuser=1&user=-NVkrGYAAAAJ"
+# researchgate: https://www.researchgate.net/profile/Yu_Gao109?ev=hdr_xprf
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
