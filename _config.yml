@@ -20,7 +20,7 @@ author: "Yu Gao"
 ###############################################
 
 navbar-links:
- Home: "yugaophd.github.io"
+ Home: "https://yugaophd.github.io"
  About Me: "aboutme"
  Research: "https://www.researchgate.net/profile/Yu_Gao109"
  CV: "/assets/Academic_CV_YuGao_2023.pdf"
