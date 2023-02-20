@@ -10,3 +10,4 @@ I got my PhD in Meteorology and Physical Oceanography from University of Miami i
 ### My research
 My research aims to understand a broad range of topics, including air-sea interaction, impact of submesoscale and mesoscale processes, climate predictibility, as well as the impact of climate change. My past research has helped to quantify the primary processes that drive the mesoscale air-sea interaction with regional coupled model, global climate model and quantitative analysis. With a combination of physics-based data assimilation and data-driven machine learning techiniques, my current project on California Current State Estimate with SWOT data assimilation focuses on reducing correlated errors of SWOT data and undertanding small-scale ocean processes. 
 
+You can find more about my research here: https://www.researchgate.net/profile/Yu_Gao109
