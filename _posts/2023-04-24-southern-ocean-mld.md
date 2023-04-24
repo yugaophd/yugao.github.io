@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Origins of Mesoscale Mixed Layer Depth Variability in the Southern Ocean
-cover-img: /assets/img/fig01.png
+cover-img: /assets/img/IMG_0034.jpeg
 thumbnail-img: /assets/img/fig04.png
 tags: [southern ocean]
 ---
