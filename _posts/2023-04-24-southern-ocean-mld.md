@@ -14,7 +14,7 @@ From January to May, when the mixed layer is shallow, atmospheric forcing and oc
 
 Notably, buoyancy advection by mesoscale ocean current anomalies can cause both local shoaling and deepening of the mixed layer. We conducted two sensitivity experiments to directly address the role of atmospheric forcing in this context. Our findings confirmed that mesoscale atmospheric forcing primarily controls MLD variability in summer, while intrinsic oceanic variability and surface forcing are equally important in winter.
 
-![Example figure showing Eddy SSTA SHFLUXA in August](/assets/img/fig04.png)
+![Example figure showing mixed layer buoyancy budget](/assets/img/fig04.png)
 
 As a result, when mesoscale anomalies in atmospheric fluxes are removed in winter, MLD variance increases, and oceanic advection becomes a dominant player in the buoyancy budget.
 
