@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About Me
-subtitle: Physcial Oceanographer and Data Scientist
+title: Unraveling the Mystery of Heat Exchange in the Southern Ocean
+subtitle: Oceanic Advection Controls Mesoscale Mixed Layer Heat Budget and Air–Sea Heat Exchange in the Southern Ocean
 cover-img: /assets/img/Fig01_diagram_ML_heat_balance.pdf
 thumbnail-img: /assets/img/Fig11_EDDY_SSTA_SHFLUXA_AUG.png
-tags: [southern ocean][air-sea]
+tags: [southern ocean]
 ---
 
 The Southern Ocean plays a pivotal role in our planet's climate, as it helps regulate the exchange of heat, freshwater, and gases like oxygen and carbon dioxide between the atmosphere and ocean. Understanding the processes that control the heat exchange in the Southern Ocean is essential for improving climate models and predicting future changes. In our recent study, we delved into the relationship between ocean currents and heat exchange to gain insight into this complex and fascinating system.
