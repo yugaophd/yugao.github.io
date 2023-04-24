@@ -23,7 +23,7 @@ navbar-links:
  Home: "https://yugaophd.github.io"
  About Me: "aboutme"
  Research: "https://www.researchgate.net/profile/Yu_Gao109"
- Google Scholar: "citations?hl=en&user=-NVkrGYAAAAJ"
+ Google Scholar: "https://scholar.google.com/citations?hl=en&user=-NVkrGYAAAAJ"
  CV: "/assets/Academic_CV_YuGao_2023.pdf"
     #- Beautiful Jekyll: "yugaophd.github.io"
     #- Learn markdown: "https://www.markdowntutorial.com/"
