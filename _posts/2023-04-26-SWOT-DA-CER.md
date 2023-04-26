@@ -2,7 +2,7 @@
 layout: post
 title: SWOT Data Assimilation with Correlated Error Reduction
 cover-img: /assets/img/Gulf_Stream_par_SWOT.JPG
-thumbnail-img: /assets/img/Gulf_Stream_par_SWOT.png
+thumbnail-img: /assets/img/Gulf_Stream_par_SWOT.JPG
 tags: [swot]
 ---
 
