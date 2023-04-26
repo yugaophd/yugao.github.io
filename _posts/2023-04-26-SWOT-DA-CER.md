@@ -2,7 +2,7 @@
 ---
 layout: post
 title: SWOT Data Assimilation with Correlated Error Reduction
-cover-img: /assets/img/Gulf_Stream_par_SWOT.jpeg
+cover-img: /assets/img/Gulf_Stream_par_SWOT.JPEG
 thumbnail-img: /assets/img/Gulf_Stream_par_SWOT.png
 tags: [swot]
 ---
@@ -15,7 +15,7 @@ To address this challenge, researchers are exploring new methods to reduce SWOT'
 
 We begin by introducing the SWOT satellite, which generates a 120-km-wide swath of SSH data with a 20-km gap at its center. The simulated SWOT errors include multiple terms such as timing error, roll error, and phase error, and are known to exhibit large spatially correlated errors. We demonstrate a simple case where the roll error is constant along the track but correlated in the cross-track direction. We also consider a baseline dilation error that is modeled as a quadratic term.
 
-![Example figure showing SWOT versus AVISO](/assets/img/Gulf_Stream_par_SWOT.png)
+![Example figure showing SWOT versus AVISO](/assets/img/Gulf_Stream_par_SWOT.JPEG)
 
 Next, we compare the one-step and two-step approaches to solving for the most probable solution of x with Bayesian approach. With the one-step approach, solving correlated error as part of the assimilation, correlated errors are almost entirely removed, and large-scale SSH signals are also removed. However, for the two-step approach, the off-track extrapolation is very bad, and the residual variance is over 86%.
 
