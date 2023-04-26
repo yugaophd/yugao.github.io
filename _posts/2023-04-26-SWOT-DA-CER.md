@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: SWOT Data Assimilation with Correlated Error Reduction
