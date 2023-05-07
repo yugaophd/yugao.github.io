@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/Gulf_Stream_par_SWOT.JPG
 tags: [swot]
 ---
 
-The Surface Water and Ocean Topography (SWOT) satellite mission, set to launch in late 2022, will provide unprecedented high-resolution measurements of sea surface height (SSH) over the global oceans. However, the accuracy of SWOT data is limited by the presence of large spatially correlated errors, particularly in the cross-track direction, which can be difficult to remove through standard processing methods.
+The Surface Water and Ocean Topography (SWOT) satellite mission, launched in December 2022, will provide unprecedented high-resolution measurements of sea surface height (SSH) over the global oceans. However, the accuracy of SWOT data is limited by the presence of large spatially correlated errors, particularly in the cross-track direction, which can be difficult to remove through standard processing methods.
 
 
 
