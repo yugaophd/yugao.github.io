@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Correlated Error Reduction in Data Assimilation: A Strategy Utilizing AVISO Proxy for Future SWOT Observations
+title: Correlated Error Reduction in Data Assimilation - Utilizing AVISO Proxy for Future SWOT Observations
 cover-img: /assets/img/Gulf_Stream_par_SWOT.JPG
 thumbnail-img: /assets/img/Gulf_Stream_par_SWOT.JPG
 tags: [swot]
