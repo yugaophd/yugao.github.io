@@ -22,6 +22,6 @@ Next, we compare the one-stage and two-stage approaches to solving the most prob
 
 Overall, this study contributes to the ongoing efforts to improve the accuracy of SWOT data and advance our understanding of the ocean's complex dynamics. With the launch of the SWOT satellite, we are poised to gain new insights into ocean circulation, sea level rise, and extreme weather events. The development of robust data assimilation methods will be critical to unlocking the full potential of this groundbreaking mission.
 
-reference: 
+References: 
 Metref, S., Cosme, E., Le Sommer, J., Poel, N., Brankart, J.-M., Verron, J., & Gomez Navarro, L. (2019). Reduction of spatially structured errors in wide-swath altimetric satellite data using data assimilation. Remote Sensing, 11(11), 1336. https://doi.org/10.3390/rs11111336
 
