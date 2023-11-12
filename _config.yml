@@ -20,7 +20,7 @@ author: "Yu Gao"
 ###############################################
 
 navbar-links:
- Home: "https://yugaophd.github.io"
+ Home:  "aboutme" #"https://yugaophd.github.io"
  About Me: "aboutme"
  Research: "https://www.researchgate.net/profile/Yu_Gao109"
  Google Scholar: "https://scholar.google.com/citations?user=acxqLH8AAAAJ&hl=en"
