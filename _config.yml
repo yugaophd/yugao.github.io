@@ -20,7 +20,7 @@ author: "Yu Gao"
 ###############################################
 
 navbar-links:
- Home:  "/"
+ Home:  "aboutme"
  About Me: "aboutme"
  Blogs: "https://yugaophd.github.io/"
  Research: "https://www.researchgate.net/profile/Yu_Gao109"
@@ -267,7 +267,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "page" #"post"
+      layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
