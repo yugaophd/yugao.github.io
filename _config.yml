@@ -22,7 +22,7 @@ author: "Yu Gao"
 navbar-links:
  Home:  "/"
  About Me: "aboutme"
- Blogs: "/Blogs/" # Add this line
+ Blogs: "/blogs/" # Add this line
  Research: "https://www.researchgate.net/profile/Yu_Gao109"
  Google Scholar: "https://scholar.google.com/citations?user=acxqLH8AAAAJ&hl=en"
  CV: "/assets/Academic_CV.pdf"
