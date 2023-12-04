@@ -72,7 +72,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
  ORCID: "0000-0002-5123-2704"
- google-scholar: "citations?hl=en&user=-NVkrGYAAAAJ"
+ google-scholar: "https://scholar.google.com/citations?user=acxqLH8AAAAJ&hl=en"
 # researchgate: "https://www.researchgate.net/profile/Yu_Gao109"
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
