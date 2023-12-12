@@ -51,4 +51,23 @@ Below, I've highlighted some key aspects of my academic and professional journey
 
 
 
+<p>This page has been visited <span id="visitCount"></span> times.</p>
+
+<script>
+window.onload = function() {
+  // Check if 'pageVisitCount' is stored in localStorage
+  if (localStorage.getItem('pageVisitCount')) {
+    // Increment the count
+    localStorage.setItem('pageVisitCount', Number(localStorage.getItem('pageVisitCount')) + 1);
+  } else {
+    // If not, initialize it to 1
+    localStorage.setItem('pageVisitCount', 1);
+  }
+
+  // Display the count
+  document.getElementById('visitCount').textContent = localStorage.getItem('pageVisitCount');
+};
+</script>
+
+
 
