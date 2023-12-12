@@ -3,71 +3,87 @@ layout: home
 title: Yu Gao
 subtitle: Physical Oceanographer | Data Scientist
 ---
-<head><!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1M474C8ESF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-1M474C8ESF');
-</script></head>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yu Gao - Physical Oceanographer | Data Scientist</title>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1M474C8ESF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-1M474C8ESF');
+    </script>
+</head>
+<body>
+    <h1>Welcome to My Professional Portfolio</h1>
+    <p>
+        I am <strong>Yu Gao</strong>, a postdoctoral researcher at the <em>Scripps Institution of Oceanography</em>. 
+        My work is an exciting blend of physical oceanography and data science. My goal is to advance our understanding 
+        of the ocean's role in climate dynamics by integrating my skills in oceanography and data science.
+    </p>
 
-
-<h1>Welcome to My Professional Portfolio</h1>
-<p>
-    I am <strong>Yu Gao</strong>, a postdoctoral researcher at the <em>Scripps Institution of Oceanography</em>. My work is an exciting blend of physical oceanography and data science. My goal is to advance our understanding of the ocean's role in climate dynamics by integrating my skills in oceanography and data science.
-<!-- </p> -->
-Below, I've highlighted some key aspects of my academic and professional journey.
-<!-- </p> -->
-
-<h2>Academic Achievements</h2>
-<ul>
-    <li><strong>Ph.D. in Meteorology and Physical Oceanography</strong>
+    <section>
+        <h2>Academic Achievements</h2>
         <ul>
-            <li>University of Miami, 2022</li>
-            <li>Research focus: Mesoscale air-sea interaction and mixed layer variability in the Southern Ocean</li>
+            <li>
+                <strong>Ph.D. in Meteorology and Physical Oceanography</strong>
+                <ul>
+                    <li>University of Miami, 2022</li>
+                    <li>Research focus: Mesoscale air-sea interaction and mixed layer variability in the Southern Ocean</li>
+                </ul>
+            </li>
+            <li>
+                <strong>B.Sc. in Marine Science</strong>
+                <ul>
+                    <li>Ocean University of China, 2016</li>
+                </ul>
+            </li>
         </ul>
-    </li>
-    <li><strong>B.Sc. in Marine Science</strong>
+    </section>
+
+    <section>
+        <h2>Research Interests</h2>
         <ul>
-            <li>Ocean University of China, 2016</li>
+            <li><strong>Ocean circulation and air-sea interaction</strong></li>
+            <li><strong>Ocean's role in the climate system</strong></li>
+            <li><strong>Current Project:</strong> Small-Scale Ocean Dynamics in the California Current State Estimate through SWOT Data Assimilation.</li>
         </ul>
-</ul>
+    </section>
 
-<h2>Research Interests</h2>
-<ul>
-    <li><strong>Ocean circulation and air-sea interaction</strong></li>
-    <li><strong>Ocean's role in the climate system</strong></li>
-    <li><strong>Current Project:</strong> Small-Scale Ocean Dynamics in the California Current State Estimate through SWOT Data Assimilation. </li>
-</ul>
+    <section>
+        <h2>Professional and Technical Skills</h2>
+        <ul>
+            <li><strong>Programming Skills:</strong> Proficient in Python, with Fortran skills.</li>
+            <li><strong>Software Engineering:</strong> Experienced in git version control and best software development practices.</li>
+            <li><strong>Data Analysis & Modeling:</strong> Skilled in analyzing large observational data sets and model outputs, familiar with high-resolution air-sea coupled models and data assimilation techniques.</li>
+            <li><strong>Computing Environments:</strong> Proficient with high-performance computing (HPC) and cloud computing.</li>
+        </ul>
+    </section>
 
-<h2>Professional and technical Skills</h2>
-<ul>
-    <li><strong>Programming Skills:</strong> Proficient in Python, with Fortran skills.</li>
-    <li><strong>Software Engineering:</strong> Experienced in git version control and best software development practices.</li>
-    <li><strong>Data Analysis & Modeling:</strong> Skilled in analyzing large observational data sets and model outputs, familar with high-resolution air-sea coupled models and data assimilation techiniques.</li>
-    <li><strong>Computing Environments:</strong> Proficient with high-performance computing (HPC) and cloud computing.</li>
-</ul>
+    <footer>
+        <p>This page has been visited <span id="visitCount"></span> times.</p>
+    </footer>
 
+    <script>
+    window.onload = function() {
+      // Check if 'pageVisitCount' is stored in localStorage
+      if (localStorage.getItem('pageVisitCount')) {
+        // Increment the count
+        localStorage.setItem('pageVisitCount', Number(localStorage.getItem('pageVisitCount')) + 1);
+      } else {
+        // If not, initialize it to 1
+        localStorage.setItem('pageVisitCount', 1);
+      }
 
+      // Display the count
+      document.getElementById('visitCount').textContent = localStorage.getItem('pageVisitCount');
+    };
+    </script>
+</body>
+</html>
 
-<p>This page has been visited <span id="visitCount"></span> times.</p>
-
-<script>
-window.onload = function() {
-  // Check if 'pageVisitCount' is stored in localStorage
-  if (localStorage.getItem('pageVisitCount')) {
-    // Increment the count
-    localStorage.setItem('pageVisitCount', Number(localStorage.getItem('pageVisitCount')) + 1);
-  } else {
-    // If not, initialize it to 1
-    localStorage.setItem('pageVisitCount', 1);
-  }
-
-  // Display the count
-  document.getElementById('visitCount').textContent = localStorage.getItem('pageVisitCount');
-};
-</script>
 
 
 
